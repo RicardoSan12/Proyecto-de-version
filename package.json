@@ -1,0 +1,22 @@
+{
+  "name": "practicas",
+  "version": "1.0.0",
+  "description": "Mejorando habilidades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoSan12/Proyecto-de-version.git"
+  },
+  "author": "Pablo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RicardoSan12/Proyecto-de-version/issues"
+  },
+  "homepage": "https://github.com/RicardoSan12/Proyecto-de-version#readme",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
